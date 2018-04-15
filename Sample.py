@@ -6,3 +6,5 @@ print(name)
 
 print(name[0:11:2])
 
+
+print("Hello world from bonnie")
